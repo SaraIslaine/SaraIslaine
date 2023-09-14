@@ -1,4 +1,4 @@
-       😃Olá meu nome é Sara Islaine, Analista de sistemas 
+       😃Olá meu nome é Sara Islaine
 👩🏾‍🎓Estudante de Análise e Desenvolvimento de Sistemas 
 
 👩🏾‍💻 skill: javascript, html, c#, react native, . NET
