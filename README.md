@@ -9,7 +9,7 @@
   <img align="center" alt="Sara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sara-Angular" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Sara-Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
 
 ##
@@ -20,6 +20,6 @@
   
 </div >
 <div style="display: inline_block"><br>
-<img align="center" alt="Paisagem" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnLYz1uU3n5QJSNIt1-Yw19f_FFOieMu3bQ&s">
+<img align="center" alt="Paisagem" height="100" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnLYz1uU3n5QJSNIt1-Yw19f_FFOieMu3bQ&s">
        
 </div>
