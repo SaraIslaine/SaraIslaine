@@ -20,6 +20,6 @@
   
 </div>
 <div>
-<img align="center" alt="Sara-Js" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Ffotos-gratis%2Ffundo-natureza&psig=AOvVaw1wjowA-bzyz5RgkCEEXEmG&ust=1730482967133000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjWisaVuYkDFQAAAAAdAAAAABAg">
+<img align="center" alt="Paisagem" height="30" width="40" src="https://static.vecteezy.com/ti/fotos-gratis/p1/13951373-incrivel-paisagem-natural-bela-cena-com-picos-de-alta-montanha-tatra-pedras-no-lago-de-montanha-agua-calma-do-lago-reflexao-ceu-colorido-por-do-sol-fundo-de-natureza-incrivel-caminhadas-de-aventura-de-outono-foto.jpg">
        
 </div>
