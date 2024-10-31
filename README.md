@@ -22,6 +22,6 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Paisagem" height="120" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnLYz1uU3n5QJSNIt1-Yw19f_FFOieMu3bQ&s">
 <img align="center" alt="Paisagem" height="120" width="140" src="https://png.pngtree.com/thumb_back/fh260/background/20240705/pngtree-picturesque-nature-image_15968579.jpg">
-<img align="center" alt="Paisagem" height="120" width="140" src="https://cdn.pixabay.com/photo/2018/11/17/22/15/trees-3822149_1280.jpg">
+<img align="center" alt="Paisagem" height="120" width="140" src="https://img.freepik.com/fotos-premium/fotografia-foto-gratuita-bela-natureza-morta-com-agua_894493-589.jpg">
        
 </div>
