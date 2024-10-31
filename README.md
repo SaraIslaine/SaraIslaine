@@ -21,7 +21,7 @@
 </div>
 
 <div>
- < img src="https://images.freeimages.com/images/large-previews/9df/nature-1370816.jpg" target="_blank">
+ < img src="https://images.freeimages.com/images/large-previews/9df/nature-1370816.jpg">
 
        
 </div>
