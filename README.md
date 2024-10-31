@@ -19,9 +19,7 @@
   <a href="https://www.linkedin.com/in/sara-islaine-743a47184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
 <div>
- < img src="https://images.freeimages.com/images/large-previews/9df/nature-1370816.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeimages.com%2Fpt%2Fphoto%2Fnature-1370816&psig=AOvVaw1wjowA-bzyz5RgkCEEXEmG&ust=1730482967133000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjWisaVuYkDFQAAAAAdAAAAABAZ">
-
+<img align="center" alt="Sara-Js" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Ffotos-gratis%2Ffundo-natureza&psig=AOvVaw1wjowA-bzyz5RgkCEEXEmG&ust=1730482967133000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjWisaVuYkDFQAAAAAdAAAAABAg">
        
 </div>
