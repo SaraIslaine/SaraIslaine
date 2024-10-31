@@ -21,7 +21,7 @@
 </div>
 
 <div>
- <img src="C:\Users\sarai\OneDrive\Área de Trabalho\img\imagem-07.webp"" target="_blank"></a> 
+ <img src="https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_1280.jpg" target="_blank"></a> 
 
        
 </div>
