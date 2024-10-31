@@ -21,7 +21,7 @@
 </div>
 
 <div>
- <a img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fphotos%2Fpaisagem-natureza-p%25C3%25B4r-do-sol-lago-4844410%2F&psig=AOvVaw1wjowA-bzyz5RgkCEEXEmG&ust=1730482967133000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjWisaVuYkDFQAAAAAdAAAAABAJColor=white" target="_blank"></a>
+ <a img src="https://images.freeimages.com/images/large-previews/9df/nature-1370816.jpg" target="_blank"></a>
 
        
 </div>
