@@ -20,6 +20,7 @@
   
 </div >
 <div style="display: inline_block"><br>
-<img align="center" alt="Paisagem" height="100" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnLYz1uU3n5QJSNIt1-Yw19f_FFOieMu3bQ&s">
+<img align="center" alt="Paisagem" height="130" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnLYz1uU3n5QJSNIt1-Yw19f_FFOieMu3bQ&s">
+<img align="center" alt="Paisagem" height="130" width="120" src="https://png.pngtree.com/thumb_back/fh260/background/20240705/pngtree-picturesque-nature-image_15968579.jpg">
        
 </div>
